@@ -1,6 +1,4 @@
-import dev.nahidibrahimov.flyweight.ErrorMessageFactory;
-import dev.nahidibrahimov.flyweight.SystemErrorMessage;
-import dev.nahidibrahimov.flyweight.UserBannedErrorMessage;
+package dev.nahidibrahimov.flyweight;
 
 public class Main {
     public static void main(String[] args) {
